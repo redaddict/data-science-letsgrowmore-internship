@@ -7,8 +7,8 @@
 Task 1 - Iris Flower Dataset
 
 
-Task 2 - Image with Pencil Sketch
-
+Task 2 - Image to Pencil Sketch with Python
+ 
 
 Task 3 - Prediction using Decision Tree Algorithm - IRIS CLASSIFICATION
  
